@@ -11,6 +11,7 @@
  - [icon.html](icon.html)
  - [index.html](index.html)
  - [live-web-instrument.html](live-web-instrument.html)
+ - [plots.html](plots.html)
  - [qrcode.html](qrcode.html)
  - [readme.html](readme.html)
  - [text.html](text.html)
