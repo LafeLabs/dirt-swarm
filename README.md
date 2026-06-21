@@ -19,6 +19,7 @@ There is no database on the back end. The PHP talks to the Python via [bridge.ph
 A major purpose of the file set presented here is to build a pipeline with the absolute minimum number of parts between Python, which can do literally everything in tech now and the Web, which remains a very effective way for machines to interact with humans. And we keep p5js as part of everything since that makes the JavaScript required for real time human interface to be easy and simple and well-documented.
 
 
+this software is still not done at all it is total chaos i am not a software developer and i never will be.  But I think it shows the structure of what is needed to be built to scale it all up. I think this is the spore which can become the swarm. Dirt Swarm!
 
 ## Windows Server:
 
