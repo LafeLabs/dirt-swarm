@@ -2,15 +2,11 @@
 
 ![](qrcode.png)
 
-## Server:
+## Windows Server:
 
  - [xampp for easy install on  windows or mac](https://www.apachefriends.org/download.html)
- - native apache/php on windows
- - trash/linux/apache/php
- - python with miniforge
- - pi/apache/php
 
-Install code on linux:
+## Install code on linux:
 
 ```
 sudo apt update
@@ -28,9 +24,8 @@ sudo chmod -R 0777 *
 ln -s /var/www/html ~/Desktop/html
 ```
 
-## [file set replicator download link]()
+## [self-replicating php script](https://github.com/LafeLabs/dirt-swarm/blob/main/replicate-file-set.php)
 
-## [raw file set replicator link]()
 
 ## web files
 
