@@ -1,36 +1,5 @@
-# [dirt-swarm](https://github.com/LafeLabs/dirt-swarm/)
+# files.md
 
-![](qrcode.png)
-
-## Server:
-
- - [xampp for easy install on  windows or mac](https://www.apachefriends.org/download.html)
- - native apache/php on windows
- - trash/linux/apache/php
- - python with miniforge
- - pi/apache/php
-
-Install code on linux:
-
-```
-sudo apt update
-sudo apt install apache2 -y
-sudo apt install php libapache2-mod-php -y
-cd /var/www/html
-sudo rm index.html
-sudo apt-get install curl
-sudo curl -o replicate-file-set.php https://raw.githubusercontent.com/LafeLabs/dirt-swarm/refs/heads/main/replicate-file-set.php
-cd ..
-sudo chmod -R 0777 *
-cd html
-php replicate-file-set.php
-sudo chmod -R 0777 *
-ln -s /var/www/html ~/Desktop/html
-```
-
-## [file set replicator download link]()
-
-## [raw file set replicator link]()
 
 ## web files
 
